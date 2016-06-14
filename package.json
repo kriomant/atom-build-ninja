@@ -1,9 +1,12 @@
 {
   "name": "build-ninja",
   "main": "./lib/build-ninja",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Build provider for Ninja",
-  "keywords": [ "build", "ninja" ],
+  "keywords": [
+    "build",
+    "ninja"
+  ],
   "repository": "https://github.com/kriomant/atom-build-ninja",
   "license": "MIT",
   "engines": {
