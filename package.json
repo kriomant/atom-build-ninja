@@ -10,7 +10,8 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "voucher": "^0.1.2"
+    "voucher": "^0.1.2",
+    "stream-splitter": "^0.3.2"
   },
   "providedServices": {
     "builder": {
